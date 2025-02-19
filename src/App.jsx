@@ -285,7 +285,7 @@ function App() {
                 <div className="distribution-info">
                   <p>Total Supply: <span className="info-highlight">1B</span></p>
                   <p>Dev Allocation: <span className="info-highlight">5%</span></p>
-                  <p>Contract Address: <span className="info-highlight">Coming soon, refer to Twitter</span></p>
+                  <p>Contract Address: <span className="info-highlight">Coming Soon, Refer to X</span></p>
                 </div>
               </div>
               
@@ -334,12 +334,6 @@ function App() {
               <path d="M22.46 6c-.77.35-1.6.59-2.46.69a4.3 4.3 0 0 0 1.88-2.38 8.166 8.166 0 0 1-2.72 1.04 4.284 4.284 0 0 0-7.3 3.91 12.145 12.145 0 0 1-8.82-4.47 4.285 4.285 0 0 0 1.33 5.72 4.27 4.27 0 0 1-1.94-.54v.06a4.285 4.285 0 0 0 3.43 4.2 4.28 4.28 0 0 1-1.93.07 4.285 4.285 0 0 0 4 2.98A8.588 8.588 0 0 1 2 19.54 12.086 12.086 0 0 0 8.29 21c7.55 0 11.68-6.26 11.68-11.68l-.01-.53A8.34 8.34 0 0 0 22.46 6z"/>
             </svg>
             Twitter
-          </a>
-          <a href="https://t.me/+T1fxEZRBUfQ4Y2Y8" target="_blank" rel="noopener noreferrer">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0088cc" width="24" height="24">
-              <path d="M9.34 14.91l-.39 4.06c.55 0 .79-.24 1.09-.53l2.63-2.48 5.45 3.99c1 .55 1.71.26 1.96-.93l3.54-16.32c.29-1.3-.47-1.89-1.3-1.65L2.45 9.19c-1.32.52-1.31 1.24-.23 1.6l5.17 1.61 12.02-7.55c.57-.34 1.09-.15.67.17"/>
-            </svg>
-            Telegram
           </a>
         </div>
       </footer>
